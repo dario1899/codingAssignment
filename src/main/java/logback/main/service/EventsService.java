@@ -1,6 +1,5 @@
 package logback.main.service;
 
-import logback.main.data.EventData;
 import org.json.simple.JSONObject;
 
 public interface EventsService {
